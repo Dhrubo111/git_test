@@ -126,9 +126,9 @@ const professionalJourney = {
 };
 ```
     
-    <td width="50%">
-      <h3>🎨 Design & Research Experience</h3>
-      </td>
+ 
+ <h3>🎨 Design & Research Experience</h3>
+     
       
 ```javascript
 const designResearchExpertise = {
