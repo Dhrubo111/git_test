@@ -151,7 +151,7 @@ const designResearchExpertise = {
   ]
 };
 ```
-    </td>
+   
   </tr>
 </table>
 </div>
