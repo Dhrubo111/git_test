@@ -97,9 +97,7 @@ pie title Technology Usage Distribution
 <details open>
 <summary><h2>💼 Professional Experience & Expertise</h2></summary>
 
-<div align="center">
-<img src="https://img.shields.io/badge/Australian_Based_Company-Remote_Junior_Engineer-2F8D46?style=for-the-badge" alt="Current Position"/>
-</div>
+
 
 <div align="center">
 <table>
