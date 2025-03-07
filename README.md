@@ -57,10 +57,7 @@
 
 <h3 align="center">📊 Project Management</h3>
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Agile-47A248?style=for-the-badge" alt="Agile"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge" alt="Scrum"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" alt="ClickUp"/></a>
 </div>
 </details>
 
